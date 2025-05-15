@@ -1,4 +1,8 @@
- ## What is "My First Robot"?
+---
+title: Home
+---
+
+ # What is "My First Robot"?    
  
 "My First Robot" is a **kid-friendly drivetrain project** designed to introduce children to **mechanical engineering and robotics**. This hands-on experience allows young builders to **assemble and understand drivetrain mechanics** while having fun.
 
@@ -6,5 +10,4 @@
 
 ###  Hands-On Learning Experience
 - Engaging **assembly process** teaches basic engineering principles  
-- Basic eletronics allow for easy build of the robot!
-
+- Basic eletronics allow for easy build of the robot!   
