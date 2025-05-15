@@ -1,5 +1,6 @@
-title: tonic-starter
-description: ""
+title: My First Robot
+description: "This is the template I will use for the project 'My First Robot'."
 encoding: utf-8
+
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
